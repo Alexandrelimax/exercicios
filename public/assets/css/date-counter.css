@@ -1,0 +1,30 @@
+body {
+  font-family: sans-serif;
+  color: white;
+  background-color: #292929;
+}
+
+.container {
+  text-align: center;
+}
+
+.count {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+button {
+  color: #292929;
+  background-color: white;
+  border-radius: 50%;
+  border: 0;
+}
+
+button:hover {
+  cursor: pointer;
+}
+
+h2 {
+  margin: 20px;
+}
