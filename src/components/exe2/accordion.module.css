@@ -44,8 +44,13 @@ body {
   font-weight: 500;
 }
 
-.content-box {
+.contentbox {
   grid-column: 2 / -1;
   padding-bottom: 16px;
   line-height: 1.6;
+}
+
+.active {
+  border-top: 3px solid pink;
+  color: pink;
 }

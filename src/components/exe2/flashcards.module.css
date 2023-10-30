@@ -28,3 +28,16 @@ body {
   padding: 20px;
   cursor: pointer;
 }
+.cardAnswer {
+  color: #323232;
+  background-color: lightblue;
+  border: 1px solid #4e4e4e;
+  border-radius: 7px;
+  aspect-ratio: 2 / 1;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  padding: 20px;
+  cursor: pointer;
+}
